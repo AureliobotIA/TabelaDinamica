@@ -3,7 +3,7 @@
 ## 🚀 Introdução
 <p align="center">
 <img 
-    src="./assets/cover.PNG"
+    src="./excel.PNG"
     width="400"  
 />
 </p>
