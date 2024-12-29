@@ -1,7 +1,7 @@
 # Como Organizar sua vida Financeira com Planilhas Inteligentes e IA
-
+dsdsdsdsdsds
 ## 🚀 Introdução
 
-### Exemplos e Insigths
+### Tabelas Inteligentes na Formatação de DashBoard
 
 
